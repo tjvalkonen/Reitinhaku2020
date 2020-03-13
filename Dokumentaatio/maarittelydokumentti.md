@@ -1,7 +1,7 @@
-#Projektin määrittely
+# Projektin määrittely
 
 Tarkoituksena on tarkastella eri algoritmien toimivuutta polunetsinnässä.
 
-##Tavoite
+## Tavoite
 
 Näyttää erilaisten sokkeloiden/verkkojen vaikutus eri algoritmien tehokkuuteen.

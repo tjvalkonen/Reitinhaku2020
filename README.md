@@ -1,4 +1,4 @@
-#Reitinhaku2020
+# Reitinhaku2020
 
 Tietorakenteet ja algoritmit - harjoitustyö.
 
